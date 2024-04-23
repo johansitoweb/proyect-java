@@ -16,8 +16,6 @@ CRUD usando Java Server Pages (JSP) y conectado a la base de datos (MySQL)
 4. Editar las variables de conexión en la clase ```Conexion.java``` del paquete ```config```, por los datos de acceso de MySQL
 5. Compilar y ejecutar la aplicación.
 
-## Autores ✒️
-- **Marco Robles** - *Desarrollo* - [mroblesdev](https://github.com/mroblesdev)
 
 ## Licencia 📄
 
